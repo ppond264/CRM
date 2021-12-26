@@ -72,7 +72,7 @@ for answering the questions, we have to find out characteristics of any clustere
 after that, we can interpret the results fo these clustering and can name all of the clustering :D
 
 ----------------------------------------------------------------------
-[The cluster 0 : Not much in this customer group, highest ticket size but Recency is quite high. Potentially deal a long-term contract selling, delivery at their place and cross-selling for another potential products.
+[The cluster 0 : Not much in this customer group, highest ticket size but Recency is quite high. Potentially deal a long-term contract selling, delivery at their place and cross-selling for another potential products.]
 
 [The cluster 1 : Rich customer, not much in quantity but high value and profitable, mainly non food purchasing, very active customers. Should be the customers near the shop location. They are our treasure, bind them with the premium membership with exclusive deal, offer and make sure they we can maintan them. Considerr to brach new line with the popular "non food" product]
 
