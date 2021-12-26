@@ -7,8 +7,8 @@ before explore, we use Python and PyCaret Library for analytic and cluster this 
 
 
 ### 1. Set up
-- Load "Supermarket Data.csv" 
-- Instrall PyCaret via [!pip install pycaret]
+- Load "[Supermarket Data.csv](https://drive.google.com/file/d/1CBuHPnAf1FbBJxiMxBJxvtnS4DMJrEdD/view?usp=sharing)" 
+- Instrall PyCaret 
 - Import necessary libraries (pandas,numpy)
 
 ### 2. Explore Data and find new features
