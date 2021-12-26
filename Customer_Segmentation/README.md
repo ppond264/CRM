@@ -1,7 +1,8 @@
 # Customer Segmentation
-# What is Customer Segmentation?
-# Tools we use
-# Let's Explore!!
+What is Customer Segmentation? Customer segmentation is the process by which you divide your customers up based on common characteristics
+![image](https://user-images.githubusercontent.com/95345008/147415972-36d2f191-a51a-4f13-866b-c36a996232ed.png)
+
+## Let's Explore!!
 
 Let's try customer segmentation by PyCaret that we can use Spectral Clustering and KMeans Clustering
 
@@ -39,6 +40,6 @@ here is the result of KMeans Clustering
 
 ### 4. Interpret the results
 Now, we have to interpret what that is mean? what is the clustering say?
-for answering the questions, we have to find out propetys of any clustered data that we need to explore more!
+for answering the questions, we have to find out characteristics of any clustered data that we need to explore more!
 after that, we can interpret the results fo these clustering and can name all of the clustering :D
 In fact, you have to find more any research or information that can support your conclusion to make more reliable and practical.
