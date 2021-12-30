@@ -35,4 +35,4 @@ Then we need to fix it by SMOTE.<br />
 ### Support Vector Machine
 
 ## Conclusion
-After we classify our train and test dataset though those models, the best model is Logistic Regression with XGBoost. AUC Score frome Logistic Regression is quite high and is around AUC score of test dataset. AUC score of train dataset from Random Forests model is 1.0 but AUC score of test data set is belower than then it means this model overfit. SVM and KNN have less AUC score than Logistic Regression
+After we classify our train and test dataset though those models, the best model is Logistic Regression with XGBoost. AUC Score frome Logistic Regression is quite high and is around AUC score of test dataset. AUC score of train dataset from Random Forests model is 1.0 but AUC score of test data set is belower than then it means this model overfit. SVM and KNN have less AUC score than Logistic Regression.
