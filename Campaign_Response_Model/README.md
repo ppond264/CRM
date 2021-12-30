@@ -35,4 +35,4 @@ Then we need to fix it by SMOTE.<br />
 ### Support Vector Machine
 
 ## Conclusion
-After we fixed imbalanced data, it's more reliable (AUC score is quite high). then we input the data into 3 model of classification then compare results which is better than other. We found that ... model have the highest AUC score and also there aren't overfit because AUC score of test dataset is acceptable. Then, we could use this model for predict response rate to more customers with that accaracy.
+After we classify our train and test dataset though those models, the best model is Logistic Regression with XGBoost. AUC Score frome Logistic Regression is quite high and is around AUC score of test dataset. AUC score of train dataset from Random Forests model is 1.0 but AUC score of test data set is belower than then it means this model overfit. SVM and KNN have less AUC score than Logistic Regression
