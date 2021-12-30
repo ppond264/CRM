@@ -1,6 +1,6 @@
-CLV Dashbpard
+# CLV Dashbpard
  We have explored our data "Supermarket.csv" and try to design dashboard and create it by power bi
- consept of this dashboard
+ ## consept of this dashboard
  1. We find out that some products of this store have very low amount of product sales.
  2. Then we think that this store should remove these products then increase some of other product that have high amount of product sales and therefoe can increase the income and profit.
  3. Cost of stock also decrease because this store have more space to contain more product that high sales.
