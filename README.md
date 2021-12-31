@@ -1,2 +1,2 @@
 # CRM Analytics
-Studying of CRM(customer relationship management) analytics
+Studying project from CRM(customer relationship management) analytic classroom
