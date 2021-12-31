@@ -2,7 +2,6 @@
 Product Recommendation is how we can recommend our other products that customers didn't buy it. We try to recommend customers based on what that customer purchased and others purchased seeing how they are similarity
 ## Let explore!
 This time, we create questionnaire asking peoples that buy or not buy each product. The data we collected look like this.\
-\
 ![image](https://user-images.githubusercontent.com/95345008/147813134-d7a31ea4-6e35-4cae-b6d7-33c8f18101e6.png)
 ## Prepared Data
 After we got the dataframe, we clean it first by
