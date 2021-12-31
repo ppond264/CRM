@@ -30,9 +30,16 @@ Then we need to fix it by SMOTE.<br />
 <br />
 ## Classification
 ### Logistic Regression
+![image](https://user-images.githubusercontent.com/95345008/147820969-8bf8068d-02a7-47b2-8035-5064781effc5.png)
+
 ### Logistic Regression XGBoost
+![image](https://user-images.githubusercontent.com/95345008/147820977-87ef254e-f2a1-4e1f-b748-c315752b1957.png)
+
 ### Random Forests
+![image](https://user-images.githubusercontent.com/95345008/147820988-d8aeb3a3-78df-45ed-a9d9-11142e52fd48.png)
+
 ### Support Vector Machine
+![image](https://user-images.githubusercontent.com/95345008/147820999-d661429e-2ad2-43ee-b4b8-89c0464424e6.png)
 
 ## Conclusion
 After we classify our train and test dataset though those models, the best model is Logistic Regression with XGBoost. AUC Score frome Logistic Regression is quite high and is around AUC score of test dataset. AUC score of train dataset from Random Forests model is 1.0 but AUC score of test data set is belower than then it means this model overfit. SVM and KNN have less AUC score than Logistic Regression.
