@@ -37,7 +37,7 @@ Here are lasted data!
 now the data is ready for clustering! let's go!
 #### Compare model performance
 after we let the data to all of these cluster model, we have to find out that which model is highest performance
-so that we find out Spectral and KMeans Clustering is good to go for it
+so that we find out Spectral and KMeans Clustering is good to go for it/
 ![image](https://user-images.githubusercontent.com/95345008/147416293-9618939d-9c29-4bfb-ab6f-dc8bcc81b698.png)
 
 #### Spectral Clustering 
